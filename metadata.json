@@ -1,0 +1,11 @@
+{
+  "name": "Noor Chat",
+  "description": "A modern Android messaging app with secure authentication, 1-to-1 private chat, 10-member group chat, audio/video calls, media sharing, friends list, and real-time notifications.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
